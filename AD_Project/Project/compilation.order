@@ -1,0 +1,5 @@
+.\src\Gates_library.vhd
+.\src\Adders_Library.vhd
+.\src\multiplier.vhd
+.\src\verfication.vhd
+.\src\Test.vhd
